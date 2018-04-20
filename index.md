@@ -1,56 +1,11 @@
 <html>
-<head>
-<title>Make In India</title>
-<style>
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover:not(.active) {
-    background-color: #111;
-}
-
-.active {
-    background-color: #4CAF50;
-}
-h1{ 
-    display: block;
-    font-size: 1.5em;
-    margin-top: 0.83em;
-    margin-bottom: 0.83em;
-    margin-left: 0;
-    margin-right: 0;
-    font-weight: bold;
-    font color:whte;
-}
-</style>
+    <head>
 </head>
 <body bgcolor="white">
 <hr><h1><marquee>“People are talking about FDI but I see things differently. FDI is also a responsibility for the people of India. The Make in India logo is derived from the Ashoka Chakra. The lion in the logo stands for strength and power while the wheels are a sign of development and progress.”
 <font size="14" font color="pink" font style="algerian"></marquee></h1>
 <img src="C:\Users\Manoj\Desktop\interschool\make.gif" style="margin-left:450px;">
-<ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
-</ul>
+
 <p><font size="6">
 Make in India, a type of Swadeshi movement covering 25 sectors of economy,] was launched by the Government of India on 25 September 2014 to encourage companies to manufacture their products in India. As per the current policy, 100% FDI (Foreign Direct Investment) permitted in all the 25 sectors, except for space (74%), defence (49%) and news media (26%). Japan and India announced a US$12 billion "Japan-India Make-in-India Special Finance Facility" fund. </p>
 <img src="C:\Users\Manoj\Desktop\interschool\11.jpg" width="600" height="400" style="margin-left:0px;">
